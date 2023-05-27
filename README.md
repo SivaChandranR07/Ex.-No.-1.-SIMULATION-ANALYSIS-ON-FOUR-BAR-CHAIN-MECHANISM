@@ -53,10 +53,11 @@
 
 
 ## Output:
+![EMPD 1](https://github.com/SivaChandranR07/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113497395/32674c59-3c97-42a2-81ba-8c6114d10b5a)
 
 
-### Name:
-### Register Number: 
+### Name: SIVA CHANDRAN R
+### Register Number: 212222240099
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
